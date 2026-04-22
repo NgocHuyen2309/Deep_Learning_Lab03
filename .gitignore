@@ -1,0 +1,8 @@
+# Bỏ qua thư mục chứa dataset
+archive/
+Indoor vs Outdoor/
+
+# Bỏ qua các file rác của môi trường Python và Jupyter
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
